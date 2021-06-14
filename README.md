@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manas Shukla @shuklam20
+- 👋 Hi, I’m Manas Shukla (@shuklam20)
 - 👀 I’m interested in Machine Learning, Deep Learning and Numerical Modeling
 - 🌱 I’m currently learning Path Planning and Localization
 - 💞️ I’m looking to collaborate on ML Projects
